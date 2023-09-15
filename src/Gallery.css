@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+}
+.oke{
+  background-color:#fff;
+  font-size: 22px;
+  margin-top: 400px;
+  padding: 3rem 5rem;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.oke:hover{
+  background-color: #000;
+  color:#fff;
+}
